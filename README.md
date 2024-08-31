@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pathusutariya
 - 👀 I’m interested in coding, Computer and reading
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking for more project on Shopify and Laravel
-- 📫 How to reach me ...
+- 🌱 My experties on Laravel, React and WordPress
+- 💞️ I’m looking for more project on Laravel & React
+- 📫 Drop a message: 
 
 <!---
 pathusutariya/pathusutariya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
